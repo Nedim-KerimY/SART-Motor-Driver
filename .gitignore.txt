@@ -1,0 +1,18 @@
+**/History/
+
+*.PrjPcbStructure
+*.PrjPcbStorage
+*.PrjPCBSettings
+*.PCBDwf
+*.PCBDwfStatus
+*.PcbDocPreview
+*.OutJobPreview
+*.SchDocPreview
+*.VersionControl
+*.DataStorage
+*.IntegratedLibrary.Storage
+
+
+__Previews/
+__Output/
+Project Logs/

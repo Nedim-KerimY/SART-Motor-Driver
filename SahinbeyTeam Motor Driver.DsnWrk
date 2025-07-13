@@ -11,14 +11,14 @@ ProjectPath=Libraries\STM32F405RGT6\STM32F405RGT6.LibPkg
 [Project5]
 ProjectPath=Libraries\INA181A1IDBVR\INA181A1IDBVR.LibPkg
 [Project6]
-ProjectPath=PCB Project\ÞahinbeyTeam Motor Driver.PrjPcb
-[Project7]
-ProjectPath=Libraries\E73-2G4M04S1D\E73-2G4M04S1D.LibPkg
-[Project8]
 ProjectPath=Libraries\WSLP3921L2000FEA\WSLP3921L2000FEA.LibPkg
+[Project7]
+ProjectPath=Libraries\MP9486AGN-Z\MP9486AGN-Z.LibPkg
+[Project8]
+ProjectPath=Libraries\B1100-13-F\B1100-13-F.LibPkg
 [Project9]
 ProjectPath=Libraries\IHLP4040DZER330M11\IHLP4040DZER330M11.LibPkg
 [Project10]
-ProjectPath=Libraries\MP9486AGN-Z\MP9486AGN-Z.LibPkg
+ProjectPath=PCB Project\ÞahinbeyTeam Motor Driver.PrjPcb
 [Project11]
-ProjectPath=Libraries\B1100-13-F\B1100-13-F.LibPkg
+ProjectPath=Libraries\E73-2G4M04S1D\E73-2G4M04S1D.LibPkg

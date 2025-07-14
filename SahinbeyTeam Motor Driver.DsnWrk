@@ -21,8 +21,10 @@ ProjectPath=Libraries\IHLP4040DZER330M11\IHLP4040DZER330M11.LibPkg
 [Project10]
 ProjectPath=Libraries\TPSB107K006R0250\TPSB107K006R0250.LibPkg
 [Project11]
-ProjectPath=PCB Project\ÞahinbeyTeam Motor Driver.PrjPcb
-[Project12]
-ProjectPath=Libraries\E73-2G4M04S1D\E73-2G4M04S1D.LibPkg
-[Project13]
 ProjectPath=Libraries\LKMJ2502A681MF\LKMJ2502A681MF.LibPkg
+[Project12]
+ProjectPath=Libraries\TLV1117-33IDCYR\TLV1117-33IDCYR.LibPkg
+[Project13]
+ProjectPath=PCB Project\SahinbeyTeam Motor Driver.PrjPcb
+[Project14]
+ProjectPath=Libraries\E73-2G4M04S1D\E73-2G4M04S1D.LibPkg

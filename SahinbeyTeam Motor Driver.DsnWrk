@@ -28,3 +28,5 @@ ProjectPath=Libraries\TLV1117-33IDCYR\TLV1117-33IDCYR.LibPkg
 ProjectPath=PCB Project\SahinbeyTeam Motor Driver.PrjPcb
 [Project14]
 ProjectPath=Libraries\E73-2G4M04S1D\E73-2G4M04S1D.LibPkg
+[Project15]
+ProjectPath=Libraries\FL0800011Q\FL0800011Q.LibPkg

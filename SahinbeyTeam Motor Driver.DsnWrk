@@ -28,3 +28,5 @@ ProjectPath=Libraries\FL0800011Q\FL0800011Q.LibPkg
 ProjectPath=Libraries\STM32F405RGT6\STM32F405RGT6.LibPkg
 [Project14]
 ProjectPath=PCB Project\SahinbeyTeam Motor Driver.PrjPcb
+[Project15]
+ProjectPath=Libraries\Mini-B USB\Mini-B USB.LibPkg

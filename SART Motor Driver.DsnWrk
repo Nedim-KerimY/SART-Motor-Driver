@@ -13,4 +13,6 @@ ProjectPath=Libraries\STM32F405RGT6\STM32F405RGT6.LibPkg
 [Project6]
 ProjectPath=Libraries\DRV8323SRTAT\DRV8323SRTAT.LibPkg
 [Project7]
+ProjectPath=Libraries\IPT015N10N5\IPT015N10N5.LibPkg
+[Project8]
 ProjectPath=PCB Project\SART Driver.PrjPcb

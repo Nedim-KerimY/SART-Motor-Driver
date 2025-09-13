@@ -1223,6 +1223,14 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=A|NetColor=clYellow
+Net2=NetName=B|NetColor=clLime
+Net3=NetName=C|NetColor=clBlue
+Net4=NetName=NetQ1_S1|NetColor=clYellow
+Net5=NetName=NetQ3_S1|NetColor=clLime
+Net6=NetName=NetQ5_S1|NetColor=clBlue
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

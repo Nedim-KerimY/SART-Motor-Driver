@@ -1,0 +1,18 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Libraries\Passives\Passives.LibPkg
+[Project2]
+ProjectPath=Libraries\WSLP3921L2000FEA\WSLP3921L2000FEA.LibPkg
+[Project3]
+ProjectPath=Libraries\TLV1117-33IDCYR\TLV1117-33IDCYR.LibPkg
+[Project4]
+ProjectPath=Libraries\FL0800011Q\FL0800011Q.LibPkg
+[Project5]
+ProjectPath=Libraries\STM32F405RGT6\STM32F405RGT6.LibPkg
+[Project6]
+ProjectPath=Libraries\DRV8323SRTAT\DRV8323SRTAT.LibPkg
+[Project7]
+ProjectPath=Libraries\IPT015N10N5\IPT015N10N5.LibPkg
+[Project8]
+ProjectPath=PCB Project\SART MD.PrjPcb
